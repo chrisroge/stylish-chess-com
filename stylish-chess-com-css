@@ -1,0 +1,109 @@
+.nav-panel-shade {
+  background-color: #efe8d6 !important;
+}
+#sb {
+	background-color: #92a1a1;
+}
+.nav-link-text {
+	color: #003741;
+}
+
+.darklight {
+	background-color: #6772c0;
+}
+.nav-collapsed {
+	background-color: #6772c0;
+}
+.link > .icon-font-chess {
+	background-color: #6772c0;
+}
+.circle-question {
+	background-color: #6772c0;
+}
+
+.theme-background {
+background-color: #FAF9F6 !important;
+}
+
+#player-bottom .user-username-component {
+	color: #6772c0;
+  text-shadow: 0px 0px;
+  font-weight: normal;
+  font-size: 1.4em;
+}
+
+#player-top .user-username-component {
+	color: #6772c0;
+  text-shadow: 0px 0px;
+  font-weight: normal;
+  font-size: 1.4em;
+}
+
+#player-bottom .user-tagline-rating {
+	color: #6772c0;
+  text-shadow: 0px 0px;
+  font-weight: normal;
+  font-size: 1.4em;
+}
+
+#player-top .user-tagline-rating {
+	color: #6772c0;
+  text-shadow: 0px 0px;
+  font-weight: normal;
+  font-size: 1.4em;
+}
+
+.play-controller-moves-container {
+	color: #6772c0;
+  background-color: #FAF9F6;
+}
+
+.eco-opening-name {
+	color: #6772c0;
+}
+
+.flair-component {
+	display: none;
+}
+
+#board-controls-settings {
+	color: black;
+  text-shadow: 0px 0px;
+  font-weight: normal;
+  font-size: 2em;
+}
+
+.user-username-component:nth-child(2) {
+	color: #6772c0;
+  text-shadow: 0px 0px;
+  font-weight: normal;
+  font-size: 1.4em;
+}
+.user-tagline-rating:nth-child(3) {
+	color: #6772c0;
+  text-shadow: 0px 0px;
+  font-weight: normal;
+  font-size: 1.4em;
+}
+.user-username-component:nth-child(1) {
+	color: #6772c0;
+  text-shadow: 0px 0px;
+  font-weight: normal;
+  font-size: 1.4em;
+}
+.user-tagline-rating:nth-child(2) {
+	color: #6772c0;
+  text-shadow: 0px 0px;
+  font-weight: normal;
+  font-size: 1.4em;
+}
+
+.coordinate-light {
+  fill: #fef6e4 !important;
+  font-weight: normal;
+}
+
+.coordinate-dark {
+  fill: #fef6e4 !important;
+  font-weight: normal;
+}
